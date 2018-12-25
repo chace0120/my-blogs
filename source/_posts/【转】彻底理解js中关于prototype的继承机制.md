@@ -7,7 +7,6 @@ categories:
 date: 2018-12-25 15:31:31
 ---
 
-
 > 特别声明：下面文中的很多要点、代码示例均摘录自阮一峰文章中的内容。虽然加入了一些笔者自己的思考和总结，但笔者认为该文章应该属于转发。
 >
 > 分享文章作者：阮一峰
@@ -491,7 +490,7 @@ alert(cat1.species); // 动物
 
 ## 非构造函数的继承
 
-不是由构造函数而产生的对象，笔者认为也称不上实例对象，因为它们不属于构造函数那套体系中，所以看做为普通对象是最好的理解。
+这里学习不通过构造函数，来实现两个实例对象之间的继承。
 
 ``` javascript
 var Chinese = {
@@ -527,7 +526,23 @@ alert(Doctor.nation); //中国
 
 **思考点**：上面object方法中的F.prototype对象中的constructor属性值是什么呢？
 
-**知识点**：F.prototype.constructor是undefined。原因是传入的Chinese是一个普通对象，不是实例对象，也不是一个默认的prototype对象，Chinese没有constructor属性。那有没有必要设置F.prototype.constructor这个属性呢？笔者认为这里是不需要的，因为F.prototype.constructor是指向构造函数的，这里的场景中没有构造函数可言，都是普通对象。
+**知识点**：F.prototype.constructor是Object，也就是说Doctor.constructor == Object。原因是传入的Chinese是一个实例对象，即new Object()出来的。因此Doctor.constructor -> F.prototype.constructor -> Chinese.constructor -> Object.prototype.constructor -> Object。
+
+熟悉Object.create()方法的人，看到这里会发现这种方式跟Object.create方法的内部实现是一样的嘛。
+
+``` javascript
+if (typeof Object.create !== 'function') {
+  Object.create = function (obj) {
+    function F() {}
+    F.prototype = obj;
+    return new F();
+  };
+}
+```
+
+没错，Object.create就是在没有构造函数的场景下，允许在指定一个实例对象为prototype对象的基础上，创建出另一个实例对象，该实例对象包含了指定实例对象的方法和属性。
+
+看到这里，笔者认为这里所谓的非构造函数的继承，其实是**对象关联**。《你不知道的JavaScript（上卷）》中大力推荐面向委托的设计，规避js中长久以来基于构造函数，强行模仿类继承设计而带来的诸多复杂情况，令人费解。而书中提到的面向委托的设计，则是基于对象关联展开的，Object.create方法恰恰是实现对象关联的方式。
 
 ### 方式2：浅拷贝
 
@@ -593,5 +608,6 @@ Doctor.birthPlaces.push('厦门');
 alert(Doctor.birthPlaces); //北京, 上海, 香港, 厦门
 alert(Chinese.birthPlaces); //北京, 上海, 香港
 ```
+
 
 
