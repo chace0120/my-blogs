@@ -2,7 +2,7 @@
 title: Linux下Redis的安装过程
 date: 2016-05-21 10:50:40
 tags: 
-- Redis
+- redis
 - CentOS
 - Linux
 categories:
