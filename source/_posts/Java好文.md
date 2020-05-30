@@ -23,6 +23,8 @@ categories:
 - [JAVA堆外内存排查小结（转）](https://juejin.im/post/5ca095ea6fb9a05e42555a3e)
 - [目前最全的Java服务问题排查套路（转）](https://mp.weixin.qq.com/s?__biz=MzUzODQ0MDY2Nw==&mid=2247483975&idx=1&sn=14dad1cf52a4407456eaf32395902bb7&chksm=fad6e4f3cda16de527a05a64d976fdf8843fef856c5925c35de483b5ebe80f8be02dddbfafcc&xtrack=1&scene=0&subscene=131&clicktime=1554792459&ascene=7&device)
 - [spring boot 引起的 “堆外内存泄漏”（转）](https://mp.weixin.qq.com/s?__biz=MzUzODQ0MDY2Nw==&mid=2247483731&idx=1&sn=30f13e6086905c53a2e0253a9e20a4e5&chksm=fad6e7e7cda16ef169094f0397d2cb93a78c1104df061e283439ed5364f6a61d4dee3c9dac22&scene=21#wechat_redirect)
+- [线上服务的FGC问题排查，看这篇就够了！（转）](https://mp.weixin.qq.com/s/I1fp89Ib2Na1-vjmjSpsjQ)
+- [JAVA线上故障排查全套路（转）](https://mp.weixin.qq.com/s/PReXs-_O1EFgAl7eNcfkmQ) - [源](https://fredal.xin/java-error-check)
   
 # 并发&多线程
 - [求你了，再问你Java内存模型的时候别再给我讲堆栈方法区了（转）](https://mp.weixin.qq.com/s/ukvveN3QRhxpXWIo03QK6A) - 源:Hollis（微信号）

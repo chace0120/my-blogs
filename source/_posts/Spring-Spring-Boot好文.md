@@ -16,3 +16,4 @@ categories:
 - [SpringBoot使用Redis实现数据缓存(下)（转）](https://mp.weixin.qq.com/s/8IktJAHrWQ3WSx2risrEGg)
 - [Spring Boot + Jasypt 实现敏感配置属性加密（原）](https://juejin.im/post/5ebf503ae51d4534287a65bd)
 - [SpringBoot应用+Docker+Jenkins实现自动化部署（转）](https://mp.weixin.qq.com/s/YZgA1YpWFDzkMKBAII-hDg)
+- [Spring Boot整合Redis实现简单的分布式锁（转）](https://blog.csdn.net/zyhlwzy/article/details/90721481)
