@@ -9,3 +9,4 @@ categories:
 
 # Nginx
 - [喜极而泣，我终于学会了Nginx！（转）](https://mp.weixin.qq.com/s/a0DQRRaAHNoD_n2WdP-hJg)
+- [Nginx攻略（转）](https://mp.weixin.qq.com/s/qpafmRq_3UKqkDFQfsxsww)
