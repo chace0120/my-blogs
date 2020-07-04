@@ -17,3 +17,8 @@ categories:
 - [Spring Boot + Jasypt 实现敏感配置属性加密（原）](https://juejin.im/post/5ebf503ae51d4534287a65bd)
 - [SpringBoot应用+Docker+Jenkins实现自动化部署（转）](https://mp.weixin.qq.com/s/YZgA1YpWFDzkMKBAII-hDg)
 - [Spring Boot整合Redis实现简单的分布式锁（转）](https://blog.csdn.net/zyhlwzy/article/details/90721481)
+- [RESTful访问权限管理实现思路，AntPathMatcher（转）](https://ningyu1.github.io/site/post/62-ant-path-matcher/)
+- [基于RBAC的Rest抽象资源权限控制设计及实现（转）](https://www.95id.com/the-permission-design-baseon-rbac-restful.html)
+- [实现注解式权限验证（转）](https://www.cnblogs.com/liukemng/p/3751338.html)
+- [Spring Boot 项目瘦身指南（转）](https://mp.weixin.qq.com/s/O_j1AYsYb1S9iYGndl0Aqw)
+- [MyBatis批量提交（转）](https://blog.csdn.net/isea533/article/details/80922305?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159382373719724835807092%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159382373719724835807092&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-1-80922305.pc_v2_rank_blog_v1&utm_term=%E6%89%B9%E9%87%8F)
