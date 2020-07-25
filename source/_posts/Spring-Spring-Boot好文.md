@@ -8,6 +8,9 @@ categories:
   - 收藏
 ---
 
+# Spring
+- [Spring中的循环依赖原理（转）](https://mp.weixin.qq.com/s/0EwkxNTFs6oW3Sl0P9sFXg)
+
 # Spring Boot
 - [这么写参数校验(validator)就不会被劝退了~（转）](https://mp.weixin.qq.com/s/m-uPVQhYsRYbCQ0J9bZsmA) - [源](https://juejin.im/post/5d3fbeb46fb9a06b317b3c48)
 - [SpringBoot 中优雅处理参数验证（转）](https://mp.weixin.qq.com/s/70E6rYSSsZW6HxK9Ks8Kug) - [源](http://www.mydlq.club/article/49/)
@@ -22,3 +25,8 @@ categories:
 - [实现注解式权限验证（转）](https://www.cnblogs.com/liukemng/p/3751338.html)
 - [Spring Boot 项目瘦身指南（转）](https://mp.weixin.qq.com/s/O_j1AYsYb1S9iYGndl0Aqw)
 - [MyBatis批量提交（转）](https://blog.csdn.net/isea533/article/details/80922305?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159382373719724835807092%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159382373719724835807092&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-1-80922305.pc_v2_rank_blog_v1&utm_term=%E6%89%B9%E9%87%8F)
+- [贼好用的JWT库（转）](https://mp.weixin.qq.com/s/Jo3PZoa7nL99c8UCxPiTTA)
+- [Spring Boot 2.3 优雅关闭新姿势（转）](https://mp.weixin.qq.com/s/RsLGbUwPcF96ea-p8FU8xA)
+
+# Spring Boot版本升级
+- [SpringBoot 2.3.0 新特性一览（转）](https://mp.weixin.qq.com/s/9Psdk_cJHBWH4cuIm66BIw)
