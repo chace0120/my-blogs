@@ -10,6 +10,8 @@ categories:
 
 # Spring
 - [Spring中的循环依赖原理（转）](https://mp.weixin.qq.com/s/0EwkxNTFs6oW3Sl0P9sFXg)
+- [@Async的使用、原理及使用时可能导致的问题（转）](https://mp.weixin.qq.com/s/wH2ehjwZXEfYWqcokPtlVA)
+- [Spring Validation最佳实践及其实现原理（转）](https://mp.weixin.qq.com/s/bmVvqhzWmK2hA2gurYB4wg)
 
 # Spring Boot
 - [这么写参数校验(validator)就不会被劝退了~（转）](https://mp.weixin.qq.com/s/m-uPVQhYsRYbCQ0J9bZsmA) - [源](https://juejin.im/post/5d3fbeb46fb9a06b317b3c48)
@@ -30,3 +32,4 @@ categories:
 
 # Spring Boot版本升级
 - [SpringBoot 2.3.0 新特性一览（转）](https://mp.weixin.qq.com/s/9Psdk_cJHBWH4cuIm66BIw)
+- [Spring Boot 2.3.3 稳定版发布（转）](https://mp.weixin.qq.com/s/XdpwuLSpoVchGKd8AhTpXw)
