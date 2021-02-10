@@ -33,6 +33,8 @@ categories:
 - [5 个能挣钱的 SpringBoot 项目（转）](https://mp.weixin.qq.com/s/Gzt3-Boi86xFJpmOodo62g)
 - [Spring Boot 整合 Quartz（转）](https://mp.weixin.qq.com/s/dA_7mQe98doCk-XkZMlJ5g)
 - [SpringBoot 整合 Quartz 实现分布式调度（转）](https://mp.weixin.qq.com/s/zJSPzcsFl72JNoqZpkH94A)
+- [干掉mapper.xml！MyBatis新特性动态SQL真香！（转）](https://mp.weixin.qq.com/s/6skQR5Nq-LZm0AeWc5-xqg)
+- [Mall电商实战项目专属学习路线（转）](https://mp.weixin.qq.com/s/msD98uP8_B_Mb7L-nKbg6w)
 # Spring Boot版本升级
 - [SpringBoot 2.3.0 新特性一览（转）](https://mp.weixin.qq.com/s/9Psdk_cJHBWH4cuIm66BIw)
 - [Spring Boot 2.3.3 稳定版发布（转）](https://mp.weixin.qq.com/s/XdpwuLSpoVchGKd8AhTpXw)

@@ -26,6 +26,7 @@ categories:
 - [线上服务的FGC问题排查，看这篇就够了！（转）](https://mp.weixin.qq.com/s/I1fp89Ib2Na1-vjmjSpsjQ)
 - [JAVA线上故障排查全套路（转）](https://mp.weixin.qq.com/s/PReXs-_O1EFgAl7eNcfkmQ) - [源](https://fredal.xin/java-error-check)
 - [20 张图揭开内存管理的迷雾（转）](https://mp.weixin.qq.com/s/HJB_ATQFNqG82YBCRr97CA)
+- [我竟然被“双亲委派”给虐了（转）](https://mp.weixin.qq.com/s/Q0MqcvbeI7gAcJH5ZaQWgA)
   
 # 并发&多线程
 - [求你了，再问你Java内存模型的时候别再给我讲堆栈方法区了（转）](https://mp.weixin.qq.com/s/ukvveN3QRhxpXWIo03QK6A) - 源:Hollis（微信号）
@@ -33,3 +34,5 @@ categories:
 - [不使用synchronized和lock，如何实现一个线程安全的单例？(转)](https://mp.weixin.qq.com/s/y-PErVpJRN7_u97C8kIjzQ) - 源:Hollis（微信号）
 - [一个synchronized跟面试官扯了半个小时（转）](https://mp.weixin.qq.com/s/DiEftiV_kTOlR4YmD4pggg)
 - [进程和线程基础知识全家桶（转）](https://mp.weixin.qq.com/s/YXl6WZVzRKCfxzerJWyfrg)
+- [Java中线程池的7中创建方式（转）](https://mp.weixin.qq.com/s/byLuH4uTwyDiJCBQiUbpDw)
+- [Guide To CompletableFuture（转）](https://www.baeldung.com/java-completablefuture)
